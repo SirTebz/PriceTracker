@@ -1,0 +1,6 @@
+@PriceIntelligence.API_HostAddress = http://localhost:5198
+
+GET {{PriceIntelligence.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

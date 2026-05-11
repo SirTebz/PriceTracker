@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PriceIntelligence.API/PriceIntelligence.API.csproj" />
+  <Project Path="PriceIntelligence.Application/PriceIntelligence.Application.csproj" />
+  <Project Path="PriceIntelligence.Domain/PriceIntelligence.Domain.csproj" />
+  <Project Path="PriceIntelligence.Infrastructure/PriceIntelligence.Infrastructure.csproj" />
+</Solution>
